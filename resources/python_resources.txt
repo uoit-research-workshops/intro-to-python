@@ -1,0 +1,11 @@
+Google
+
+Stack Overflow
+http://stackoverflow.com/
+
+Reddit
+https://www.reddit.com/r/python
+https://www.reddit.com/r/learnpython
+
+Codeacademy 
+https://www.codecademy.com/tracks/python
