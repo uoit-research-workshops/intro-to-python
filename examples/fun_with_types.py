@@ -12,6 +12,10 @@ d = True
 #This is an example of a list
 mylist = [a, b, c, d]
 
+#List indexes start from zero!
+print mylist[1]
+
+
 #Looping over a list
 for item in mylist:
 
