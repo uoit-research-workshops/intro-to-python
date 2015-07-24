@@ -6,6 +6,7 @@ http://stackoverflow.com/
 Reddit
 https://www.reddit.com/r/python
 https://www.reddit.com/r/learnpython
+http://www.reddit.com/r/dailyprogrammer/wiki/challenges
 
 Codeacademy 
 https://www.codecademy.com/tracks/python
